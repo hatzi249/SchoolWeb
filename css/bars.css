@@ -1,0 +1,9 @@
+/* Bar height */
+.bar-height { height: 3px;}
+
+/* Boostrap like color selectors */
+.bg-cozy {background-color: #ea77ad !important;}
+.text-cozy {color: #ea77ad !important;}
+.btn-cozy {background-color: #ea77ad !important;}
+.border-cozy {border-color: #ea77ad !important;}
+

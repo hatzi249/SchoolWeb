@@ -1,0 +1,14 @@
+.crayon {
+    --crayon-height: 0.85rem;
+    --crayon-width: 4rem;
+    --crayon-color: #237449;
+    --crayon-paper-color: rgba(41,237,133,.6);
+    --crayon-line-color: #237449;
+    --crayon-shadow-color: rgba(0, 0, 0, 0.3);
+
+    width: var(--crayon-width);
+    height: var(--crayon-height);
+
+    background: var(--crayon-color);
+    box-shadow: 2px 2px 3px var(--crayon-shadow-color);
+}
